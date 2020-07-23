@@ -14,7 +14,7 @@ module.exports = {
     execute(message, args) {
         let generalCommands = "";
             generalCommands += `**${supportbot.Prefix}${supportbot.HelpCommand}** ${supportbot.HelpDesc}\n`;
-            generalCommands += `**${supportbot.Prefix}${supportbot.LinksCommand}** ${supportbot.LinkDesc}\n`;
+            generalCommands += `**${supportbot.Prefix}${supportbot.LinksCommand}** ${supportbot.LinksDesc}\n`;
             generalCommands += `**${supportbot.Prefix}${supportbot.SuggestCommand}** ${supportbot.SuggestionDesc}\n`;
             generalCommands += `**${supportbot.Prefix}${supportbot.PingCommand}** ${supportbot.PingDesc}\n`;
         
