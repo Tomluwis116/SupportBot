@@ -11,5 +11,5 @@ SupportBot the #1 self-hosted discord ticket system with any customizations and 
 |---------|---------|
 |   6.0.  |    ✅   |   
 |---------|---------|
-
+[![Run on Repl.it](https://repl.it/badge/github/1tzemerald/SupportBot)](https://repl.it/github/1tzemerald/SupportBot)
 
